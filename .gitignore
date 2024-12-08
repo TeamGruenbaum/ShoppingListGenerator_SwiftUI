@@ -1,0 +1,26 @@
+# Xcode
+## User settings
+xcuserdata/
+
+## Obj-C/Swift specific
+*.hmap
+
+## App packaging
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager
+Packages/
+Package.resolved
+.swiftpm
+.build/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
