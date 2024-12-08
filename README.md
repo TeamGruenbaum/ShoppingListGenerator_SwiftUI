@@ -6,7 +6,7 @@ The ShoppingListGenerator is designed to help users to quickly and easily create
 The ShoppingListGenerator was developed using Swift and SwiftUI during our Bachelor‘s programme at Hof University of Applied Sciences in the lecture „Agile test and development methods in app programming“. It was also presented in a [post](https://informatik.hof-university.de/allgemein/studienarbeit-shoppinglistgenerator/) on the blog of the Faculty of Computer Science at our university.
 <br>
 
-https://github.com/user-attachments/assets/9fc16d98-2e84-43af-9fe1-a2a388516849
+https://github.com/user-attachments/assets/b7b3a942-412b-4c25-b58e-02eaadc2e1f4
 
 <br>
 
